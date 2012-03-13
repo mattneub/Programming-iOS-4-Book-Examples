@@ -1,1 +1,1 @@
-If this experiment works, this Readme will eventually contain a link to the real repository.
+The examples have been moved to <https://github.com/mattneub/Programming-iOS-Book-Examples>.
